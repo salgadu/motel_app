@@ -1,0 +1,2 @@
+/home/titanium/projects/Flutter/motel_list/android/app/.cxx/Debug/5ja6i162/x86/CMakeFiles/edit_cache.dir
+/home/titanium/projects/Flutter/motel_list/android/app/.cxx/Debug/5ja6i162/x86/CMakeFiles/rebuild_cache.dir
