@@ -80,11 +80,7 @@ O projeto segue uma estrutura modularizada para melhor organização do código
 
 ![Demonstração do app](assets/videos/demo.mp4)
 
-## Demonstração
-
-[![Assista à demonstração]](https://youtu.be/WEHf1ouH65A)
-
-
+![Assista à demonstração](https://youtu.be/WEHf1ouH65A)
 
 ## 📜 Considerações Finais
 
