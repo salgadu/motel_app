@@ -76,6 +76,16 @@ O projeto segue uma estrutura modularizada para melhor organização do código
 │── tests/           # Arquivos de teste unitário
 ``` -->
 
+## Demonstração
+
+![Demonstração do app](assets/videos/demo.mp4)
+
+## Demonstração
+
+[![Assista à demonstração]](https://youtu.be/WEHf1ouH65A)
+
+
+
 ## 📜 Considerações Finais
 
 Este projeto foi desenvolvido seguindo boas práticas de desenvolvimento, com um código limpo e modularizado. O gerenciamento de estado foi escolhido para garantir melhor manutenção e performance da aplicação.
